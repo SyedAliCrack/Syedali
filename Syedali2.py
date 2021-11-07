@@ -61,9 +61,8 @@ Y='\033[1;93m'
 #### exit ####
 
 def exb():
-
-	print (R + 'Exit')	
-    os.sys.exit()
+         print (R + 'Exit')	
+         os.sys.exit()
 
 #### clear ####
 
